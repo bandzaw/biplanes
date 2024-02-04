@@ -1,5 +1,5 @@
 # Biplanes
-My port of the classic Biplanes of Intellivision's Triple Action, which my brother and I loved to play as kids in mid 80s.
+My port of the classic Biplanes of Intellivision's Triple Action, which my brother and I loved to play as kids in the 80s.
 
 It's a thrilling dogfight -- biplane style! Watch out for the control tower...don't get lost in the clouds. But most of all, watch out for that blood thirsty baron with a leather cap! 
 
@@ -17,3 +17,7 @@ So many hours were wasted on Biplanes, that when a memo was circulated April 1, 
 In Biplanes, although the game ends when one player reaches 15 points, bullets in the air at that point are allowed to score. It's possible, therefore, to have a game with a 15-15 tie, or to win with 16 points.
 
 Bug: In Biplanes, horizontal-flying bullets headed directly at the narrow spot on the upper half of the tower sometimes fly right through it, as if the tower wasn't there.
+
+# Game details
+- The objective of Biplanes is to score 15 points by shooting down the balloon or the enemy's biplane. 
+- Before the game begins, players can choose between short-range and long-range shots.
